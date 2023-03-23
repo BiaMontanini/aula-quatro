@@ -17,3 +17,8 @@ Comando para rodar o exercício 3:
 
 npm run tres
 ```
+Comando para rodar o exercício 4:
+```
+
+npm run quatro
+```
